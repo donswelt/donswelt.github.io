@@ -1,0 +1,21 @@
+<feed>
+<generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+<link href="https://donswelt.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="https://donswelt.github.io/" rel="alternate" type="text/html"/>
+<updated>2019-02-11T10:51:08+00:00</updated>
+<id>https://donswelt.de/feed.xml</id>
+<title type="html">donswelt.github.io</title>
+<subtitle>Texthäppchen.</subtitle>
+<entry>
+<title type="html">Donswelt ist umgezogen!</title>
+<link href="https://donswelt.de" rel="alternate" type="text/html" title="Donswelt ist umgezogen!"/><published>2019-02-10T00:00:00+00:00</published>
+<updated>2019-02-10T00:00:00+00:00</updated>
+<id>https://donswelt.de/</id>
+<content type="html" xml:base="https://donswelt.github.io/">
+<p>Donswelt ist umgezogen: <a href="https://donswelt.de">Donswelt.de</a>
+</content>
+<author><name/></author>
+<category term="blog"/>
+<summary type="html"/>
+</entry>
+</feed>
